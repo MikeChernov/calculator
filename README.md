@@ -1,1 +1,1 @@
-# calculator, commit and push with GitBash
+# calculator(commit and push with GitBash)
